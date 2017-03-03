@@ -1,0 +1,3 @@
+# discord-bot
+Random Discord Bot for Wootton Geeks!
+This is in pre Alpha Stage and will implement everything...
